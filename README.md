@@ -1,6 +1,8 @@
 # bottomnavigationbar
 
-A new Flutter project.
+![Screenshot_20230111-123839](https://user-images.githubusercontent.com/118268749/211736529-d0357cbb-07fe-4057-ab3b-f56b58fbe657.jpg)
+
+Navigation Bar Design
 
 ## Getting Started
 
